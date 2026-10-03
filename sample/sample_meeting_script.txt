@@ -1,0 +1,25 @@
+Priya: Good morning everyone. This is the Project Atlas weekly sync, Monday October fifth. Present today are me, Priya, Marcus from engineering, Elena from design, and Sam from marketing. We have three topics: the launch date, the onboarding flow, and the launch campaign.
+Priya: Let's start with the launch date. Marcus, where are we?
+Marcus: The backend is mostly done, but the payment integration is behind by about a week. If we keep the original date of October twentieth, we'd be shipping with known bugs.
+Priya: What are the options?
+Marcus: Either cut the payment feature from the first release, or push the launch to October twenty-seventh.
+Elena: I'd rather push the date. Launching without payments makes the product pretty pointless for our pilot customers.
+Sam: Marketing can adjust. The campaign hasn't gone public yet, so a one week delay is fine.
+Priya: Okay, decision made. We are moving the launch to October twenty-seventh and keeping payments in scope.
+Priya: Marcus, please send the pilot customers a revised timeline by this Wednesday.
+Marcus: Sure, I'll do that Wednesday. I'll also need to finish the payment integration testing by next Friday, October sixteenth.
+Priya: Great. Next topic, the onboarding flow. Elena?
+Elena: The new onboarding is five steps right now. User testing showed people drop off at step three, where we ask for company details.
+Marcus: We could make that step optional and collect the data later.
+Elena: I like that. Let's make step three optional and move it to after the first login.
+Priya: Agreed. That's a decision. Elena, can you update the designs and share them with Marcus by this Friday?
+Elena: Yes, by Friday.
+Priya: One open question. Do we need legal sign off on collecting company data later? Nobody here knows.
+Sam: I'll ask legal and report back at next week's meeting.
+Priya: Thanks Sam. Last topic, the launch campaign. Sam, what's the status?
+Sam: The draft email sequence is ready, but we still need customer quotes for the landing page. We're also short on budget for paid ads, about five thousand dollars.
+Priya: I'll take the budget question to finance. I'll get an answer by next Wednesday, October fourteenth.
+Sam: And I'll collect three customer quotes by October ninth.
+Priya: Perfect. One risk to flag: if the payment testing slips again, we may have to delay past October twenty-seventh. Marcus, please warn us early if that happens.
+Marcus: Will do.
+Priya: Alright, that's everything. Thanks all, see you next Monday.
