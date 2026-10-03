@@ -25,3 +25,10 @@ Export as Markdown or JSON; action items are editable in the UI.
 ## Next upgrades
 - Speaker diarization (pyannote.audio, models can be cached for offline use).
 - SQLite history and search across meetings.
+
+## Launch
+1. https://github.com/user-attachments/assets/2ac15f69-8a94-4ca4-9a70-446fcb56de46
+
+## Output
+https://github.com/user-attachments/assets/28576988-816a-43c2-beaf-cec5a41826b2
+
